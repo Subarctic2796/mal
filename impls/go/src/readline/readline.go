@@ -2,8 +2,8 @@ package readline
 
 /*
 // IMPORTANT: choose one
-#cgo LDFLAGS: -ledit
-//#cgo LDFLAGS: -lreadline // NOTE: libreadline is GPL
+// #cgo LDFLAGS: -ledit
+#cgo LDFLAGS: -lreadline // NOTE: libreadline is GPL
 
 // free()
 #include <stdlib.h>
